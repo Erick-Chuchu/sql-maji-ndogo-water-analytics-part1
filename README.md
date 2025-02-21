@@ -1,5 +1,7 @@
 # Maji Ndogo Water Project (Part I)
 
+## Beginning the Data-driven Journey in Maji Ndogo
+
 This project focuses on analyzing data related to water sources, water quality, and pollution in the Maji Ndogo area. The goal is to understand the water access patterns, identify pollution issues, and clean up any inconsistencies in the dataset.
 
 ## Table of Contents
